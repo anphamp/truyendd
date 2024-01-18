@@ -15,10 +15,5 @@
         "tenChap":"Chapter 35",
         "linkAnh":"https://st.nhattruyento.com/data/comics/55/trum-phan-dien-muon-tim-chet-9696.jpg"
         }
- ]
- ';
-
-
-
-
+ ]';
 ?>
